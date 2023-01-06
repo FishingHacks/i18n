@@ -1,0 +1,14 @@
+{
+    "missingTranslation": "No translation for {key} found! (Language: {info.language, stringify()}, prefix: {info.prefix, stringify()}, values: {values, stringify()})",
+    "keys": {
+        "error_500": "An internal Server error occurred",
+        "error_404": "File not found",
+        "error_other": "An unknown Error occurred (Code: {code})",
+        "friend_one": "I have 1 Friend",
+        "friend_other": "I have {info.count} Friends",
+        "friend_boy_one": "I have 1 Boyfriend",
+        "friend_boy_other": "I have {info.count} Boyfriends",
+        "friend_girl_one": "I have 1 Girlfriend",
+        "friend_girl_other": "I have {info.count} Girlfriends"
+    }
+}
